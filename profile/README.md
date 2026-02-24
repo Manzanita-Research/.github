@@ -1,7 +1,5 @@
 ## Manzanita Research
 
-Futuristic tools for musicians and producers.
-
 We're a small, independent AI lab building instruments, interfaces, and creative tools for the people who make music. Signal processing papers meet studio sessions. Neural networks serve the song.
 
 **What we believe:**
@@ -14,3 +12,5 @@ We're a small, independent AI lab building instruments, interfaces, and creative
 **What we're working on:** [github.com/manzanita-research](https://github.com/orgs/manzanita-research/repositories)
 
 **Website:** [manzanita.computer](https://manzanita.computer) *(coming soon)*
+
+With love from California
