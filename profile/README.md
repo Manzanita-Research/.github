@@ -13,14 +13,18 @@ We're a small, independent AI lab building instruments, interfaces, and creative
 
 | | Project | What it does |
 |---|---|---|
+| 🎵 | [audiotree](https://github.com/Manzanita-Research/audiotree) | Audio graph tools |
+| 🏷️ | [brand](https://github.com/Manzanita-Research/brand) | With love from California |
+| 🔗 | [chaparral](https://github.com/Manzanita-Research/chaparral) | The connective tissue between your projects. Manages shared Claude Code skills and configuration across sibling repos. |
+| 📖 | [glorybook](https://github.com/Manzanita-Research/glorybook) | Soar |
 | 🌳 | [grove](https://github.com/Manzanita-Research/grove) | 3D spatial audio mixer visualization — see sound in space |
+| 🌿 | [manzanita-research.github.io](https://github.com/Manzanita-Research/manzanita-research.github.io) | Instruments for the people who make music — an independent AI lab, with love from California |
+| 💖 | [pedalboard](https://github.com/Manzanita-Research/pedalboard) | Open-source Claude Code skills for independent musicians. |
+| | [rxburn](https://github.com/Manzanita-Research/rxburn) | macOS menubar app that shows how much value you're getting from your Claude subscription |
+| 🎨 | [SKIN](https://github.com/Manzanita-Research/SKIN) | Semantic Keys for Interface Notation |
 | 🎛️ | [toneword](https://github.com/Manzanita-Research/toneword) | Semantic EQ |
 | 🌿 | [understory](https://github.com/Manzanita-Research/understory) | Open-source skills that bridge AI chat and working code |
-| 🔗 | [chaparral](https://github.com/Manzanita-Research/chaparral) | The connective tissue between your projects — shared skills and config across repos |
-| 🎵 | [audiotree](https://github.com/Manzanita-Research/audiotree) | Audio graph tools |
-| 📖 | [glorybook](https://github.com/Manzanita-Research/glorybook) | Soar |
-| 🏷️ | [brand](https://github.com/Manzanita-Research/brand) | With love from California |
 
-**Website:** [manzanita.computer](https://manzanita.computer) *(coming soon)*
+**Website:** [manzanita-research.github.io](https://manzanita-research.github.io/)
 
 With love from California
