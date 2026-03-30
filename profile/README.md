@@ -1,13 +1,10 @@
 ## Manzanita Research
 
-We build instruments that make you more capable. A small, independent AI lab — music is where we started, but the values that guide that work extend further: local-first, open source, always in service of the person using it.
+A small lab in California. We make tools for people who play in bands and write DSP code and argue about gain staging — and increasingly, tools for anyone who cares about owning their own process.
 
-**What we believe:**
+Everything runs local. Everything ships open. We have zero interest in your data.
 
-- Your tools should work on your machine, offline, without a subscription.
-- We don't collect data on how you create.
-- Research should be shared. Tools should be repairable.
-- We build instruments, not automations. The human is the point.
+If it replaces the person, we're not interested. We build instruments.
 
 ### Music tools
 
