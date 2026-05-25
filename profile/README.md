@@ -34,8 +34,9 @@ If it replaces the person, we're not interested. We build instruments.
 |---|---|---|
 | 🏷️ | [brand](https://github.com/Manzanita-Research/brand) | Our visual identity and design tokens |
 | | [frameworks](https://github.com/Manzanita-Research/frameworks) | Mental models for thinking clearly about hard problems |
+| 🌿 | [manzanita-research.github.io](https://github.com/Manzanita-Research/manzanita-research.github.io) | Instruments for the people who make music — an independent AI lab, with love from California |
 | 🎨 | [SKIN](https://github.com/Manzanita-Research/SKIN) | Semantic Keys for Interface Notation |
-| | [themes](https://github.com/Manzanita-Research/themes) | Custom themes for the tools we use, built from the Manzanita color palette |
+| | [themes](https://github.com/Manzanita-Research/themes) | Custom themes for the tools we use, built from the Manzanita Research color palette |
 | 🧭 | [wayfarer](https://github.com/Manzanita-Research/wayfarer) | Generative UI frameworks, explored — same components, four different roads |
 
 **Website:** [manzanita-research.github.io](https://manzanita-research.github.io/)
